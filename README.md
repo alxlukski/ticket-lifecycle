@@ -30,25 +30,25 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/alxlukski/ticket-lifecycle/assets/150772204/3b745ceb-3101-4bd2-8967-c0e3887e8b27)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this screenshot, we log into osTicket as a user that we created, then we open a few tickets using the options from the Help Topics that we created as an admin.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/alxlukski/ticket-lifecycle/assets/150772204/5e4b0073-8351-4129-998d-b26524f2fc4e)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this screenshot, we log into osTicket as an agent that we created, then we designate the severity of the open tickets, assign them to the appropriate departments and agents, and proceed to resolve the tickets.
+</p>
+<br />
+
+<p>
+![image](https://github.com/alxlukski/ticket-lifecycle/assets/150772204/758f72b4-68e9-4c1e-827e-ed8617affa51)
+</p>
+<p>
+In this screenshot, we have resolved all of the tickets that we opened as users.
 </p>
 <br />
